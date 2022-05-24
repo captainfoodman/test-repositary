@@ -1,0 +1,3 @@
+this is the second file from member 2
+
+this new line is added from another computer
